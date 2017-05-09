@@ -1,5 +1,5 @@
 package com.gebrheinemann.calcengine;
 
 public interface ICalcEngine {
-	public void sum(int a, int b);
+	public int sum(int a, int b);
 }
